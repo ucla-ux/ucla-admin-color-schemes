@@ -54,7 +54,7 @@ function add_colors() {
 		'ucla-light-theme',
 		__( 'UCLA Light Theme', 'admin_schemes' ),
 		get_color_url( 'ucla-light-theme' ),
-		array( '#2774ae', '#003b5c', '#ffd100', '#005587' ),
+		array( '#2774ae', '#003b5c', '#ffd100', '#f1f3f3' ),
 		array(
 			'base' => '#003b5c',
 			'focus' => '#0079bf',
