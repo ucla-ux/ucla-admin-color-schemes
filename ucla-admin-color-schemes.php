@@ -54,7 +54,7 @@ function add_colors() {
 		'ucla-light-theme',
 		__( 'UCLA Light Theme', 'admin_schemes' ),
 		get_color_url( 'ucla-light-theme' ),
-		array( '#2774ae', '#003b5c', '#005587', '#ffd100' ),
+		array( '#2774ae', '#003b5c', '#ffd100', '#005587' ),
 		array(
 			'base' => '#003b5c',
 			'focus' => '#0079bf',
@@ -66,7 +66,7 @@ function add_colors() {
 		'ucla-dark-theme',
 		__( 'UCLA Dark Theme', 'admin_schemes' ),
 		get_color_url( 'ucla-dark-theme' ),
-		array( '#2774ae', '#003b5c', '#005587', '#ffd100' ),
+		array( '#003b5c', '#2774ae', '#ffd100', '#f1f3f3' ),
 		array(
 			'base' => '#f1f3f3',
 			'focus' => '#fff',
