@@ -7,7 +7,8 @@
  * Requires PHP: 7.3
  * Author: Scott Gruber
  * Author URI: https://github.com/scottgruber
- * Domain Path: /ucla-bruin-admin-color-schemes
+ * Text Domain: ucla-bruin-admin-color-schemes
+ * Domain Path: /languages
  */
 
 /*
