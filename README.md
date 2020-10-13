@@ -1,10 +1,8 @@
-# UCLA Bruin Admin Color Schemes for WordPress
-
-Bring some Bruin personality to your WordPress site with UCLA light and dark color schemes
+# UCLA Bruin Admin Color Schemes
 
 ## Description
 
-Dark and light UCLA color schemes for WordPress admin 
+Adds UCLA light and dark color schemes to user profiles to bring UCLA branding to your WordPress site.
 
 ## Instructions
 1. Install plugin and activate

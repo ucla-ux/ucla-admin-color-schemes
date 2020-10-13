@@ -6,11 +6,11 @@ Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Bring some Bruin personality to your WordPress site with UCLA light and dark color schemes
+Adds UCLA light and dark color schemes to user profiles to bring UCLA branding to your WordPress site.
 
 == Description ==
 
-Dark and light UCLA color schemes for WordPress admin user profiles.
+Adds UCLA light and dark color schemes to user profiles to bring UCLA branding to your WordPress site.
 
 
 == Change Log ==

@@ -2,9 +2,9 @@
 /**
  * Plugin Name: UCLA Bruin Admin Color Schemes
  * Plugin URI: https://github.com/ucla-ux/ucla-bruin-admin-color-schemes
- * Description: Uses UCLA branding colors for WordPress admin color schemes
+ * Description: Adds UCLA light and dark color schemes to user profiles to bring UCLA branding to your WordPress site.
  * Version: 1.0
- * Requires PHP: 5.3
+ * Requires PHP: 7.3
  * Author: Scott Gruber
  * Author URI: https://github.com/scottgruber
  * Domain Path: /languages
