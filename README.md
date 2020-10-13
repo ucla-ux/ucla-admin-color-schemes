@@ -2,13 +2,22 @@
 
 ## Description
 
-Adds UCLA light and dark color schemes to user profiles to bring UCLA branding to your WordPress site.
+Adds UCLA light and dark color schemes to WordPress user profiles 
 
 ## Instructions
+
 1. Install plugin and activate
 1. Go to your user profile
 1. Select dark or light color theme
 1. Go Bruins! 
+
+## Used by
+
+After install and activate this plugin, please add site url to document use.
+
+1. www.ioes.ucla.edu
+1. www.sustain.ucla.edu
+
 
 ## Contribute
 
