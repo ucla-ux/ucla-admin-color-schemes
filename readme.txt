@@ -1,4 +1,4 @@
-=== UCLA Admin Color Schemes ===
+=== UCLA Bruin Admin Color Schemes ===
 Contributors: scottgruber
 Requires at least: 3.8
 Tested up to: 5.5
