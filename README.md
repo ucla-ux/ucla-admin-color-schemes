@@ -1,4 +1,4 @@
-# UCLA WordPress Admin Color Schemes
+# UCLA Bruin Admin Color Schemes for WordPress
 
 Bring some Bruin personality to your WordPress site with UCLA light and dark color schemes
 
@@ -14,4 +14,4 @@ Dark and light UCLA color schemes for WordPress admin
 
 ## Contribute
 
-[On Github](https://github.com/ucla-ux/ucla-admin-color-schemes)
+[On Github](https://github.com/ucla-ux/ucla-bruin-admin-color-schemes)
