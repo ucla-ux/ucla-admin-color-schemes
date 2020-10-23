@@ -22,3 +22,4 @@ After install and activate this plugin, please add site url to document use.
 ## Contribute
 
 [On Github](https://github.com/ucla-ux/ucla-bruin-admin-color-schemes)
+[On Bitbucket](https://bitbucket.org/scott-gruber/ucla-bruin-admin-color-schemes/)
