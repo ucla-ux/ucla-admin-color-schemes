@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: UCLA Bruin Admin Color Schemes
+ * Plugin Name: UCLA Bruin User Profile Color Schemes
  * Plugin URI: https://github.com/ucla-ux/ucla-bruin-admin-color-schemes
  * Description: UCLA light and dark color schemes adds UCLA branding to user profiles.
  * Version: 1.0.0
